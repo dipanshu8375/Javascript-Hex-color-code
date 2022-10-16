@@ -13,7 +13,7 @@ It helps to get the code of the colors by clicking on the button Generate color.
   
 This is the live link of the project.
 
-Checkout Here [Live Link]()
+Checkout Here [Live Link](https://dp-hex-color-code.netlify.app)
 
 ```First Page```
 
