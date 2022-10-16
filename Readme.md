@@ -17,8 +17,8 @@ Checkout Here [Live Link]()
 
 ```First Page```
 
-![assets](./assets/../firstpage.png)
+![assets](./assets/firstpage.png)
 
 ```Themes```
 
-![assets](./assets/)
+![assets](./assets/themechange.png)
