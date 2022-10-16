@@ -21,4 +21,4 @@ Checkout Here [Live Link]()
 
 ```Themes```
 
-![assets](./assets/../themechange.png)
+![assets](./assets/)
